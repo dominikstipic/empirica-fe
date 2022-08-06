@@ -1024,8 +1024,24 @@
 
 canvas {
     border-style: solid;
+    background-color: #cdcdcd;
 }
 
+#radio{
+  display: flex;
+  padding: 15px;
+}
+
+
+.rightContainer{
+  background-color: skyblue;
+}
+
+.app{
+  display: flex;
+  position: fixed;
+
+}
 
 
   /*
